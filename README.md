@@ -40,6 +40,3 @@ To understand the importance of log monitoring, analyze authentication logs, det
 
 ## Outcome
 Gained foundational knowledge of log analysis, anomaly detection, and SIEM concepts used in cyber security operations.
-
-## Author
-Prajwal S Shetty
